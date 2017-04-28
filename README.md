@@ -1,5 +1,7 @@
 # helloworld1
-Repository
-edeflm
-few
-ffc
+public class Hello {
+	public static void main (String args[]) {
+		System.out.println ("Hello World!");
+	}
+}
+
